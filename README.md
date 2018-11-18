@@ -1,2 +1,2 @@
-# Data_Mining_2018_fall
-Projects of this course
+# Data_Mining_AssociationRules_Fall_2018
+Project1 of the course
